@@ -4,7 +4,7 @@
 
 💫Put WebHook of discord💫
 
-✨My Simple ip grabbert✨
+✨My Simple ip grabber✨
 
 ⛄Dev By https://github.com/Steven121x⛄
 
